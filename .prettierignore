@@ -21,3 +21,6 @@ coverage/
 
 # Optional IDE stuff
 .idea/
+
+# Shadcn components
+src/components/ui/*
