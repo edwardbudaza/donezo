@@ -1,0 +1,23 @@
+# Ignore build artifacts
+.next
+dist
+build
+
+# Dependencies
+node_modules
+
+# Misc
+*.log
+package-lock.json
+pnpm-lock.yaml
+.env*
+.env
+.vscode
+
+# Output files
+public/assets/*
+output/
+coverage/
+
+# Optional IDE stuff
+.idea/
